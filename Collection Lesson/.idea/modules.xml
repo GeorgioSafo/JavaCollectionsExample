@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-arraylist-examples/java-arraylist-examples.iml" filepath="$PROJECT_DIR$/java-arraylist-examples/java-arraylist-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-comparable-comparator-examples/java-comparable-comparator-examples.iml" filepath="$PROJECT_DIR$/java-comparable-comparator-examples/java-comparable-comparator-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-hashmap-examples/java-hashmap-examples.iml" filepath="$PROJECT_DIR$/java-hashmap-examples/java-hashmap-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-hashset-examples/java-hashset-examples.iml" filepath="$PROJECT_DIR$/java-hashset-examples/java-hashset-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-linkedhashmap-examples/java-linkedhashmap-examples.iml" filepath="$PROJECT_DIR$/java-linkedhashmap-examples/java-linkedhashmap-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-linkedlist-examples/java-linkedlist-examples.iml" filepath="$PROJECT_DIR$/java-linkedlist-examples/java-linkedlist-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-priority-queue-examples/java-priority-queue-examples.iml" filepath="$PROJECT_DIR$/java-priority-queue-examples/java-priority-queue-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-queue-examples/java-queue-examples.iml" filepath="$PROJECT_DIR$/java-queue-examples/java-queue-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-stack-examples/java-stack-examples.iml" filepath="$PROJECT_DIR$/java-stack-examples/java-stack-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-treemap-examples/java-treemap-examples.iml" filepath="$PROJECT_DIR$/java-treemap-examples/java-treemap-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-treeset-examples/java-treeset-examples.iml" filepath="$PROJECT_DIR$/java-treeset-examples/java-treeset-examples.iml" />
+    </modules>
+  </component>
+</project>
